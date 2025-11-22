@@ -1,5 +1,4 @@
-API_URL: http://localhost
-MAX_USERS: 100
 API_URL: http://api.production.com
 MAX_USERS: 100
 TIMEOUT: 5000
+DEBUG_MODE: true
