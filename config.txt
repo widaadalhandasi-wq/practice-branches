@@ -1,2 +1,5 @@
 API_URL: http://localhost
 MAX_USERS: 100
+API_URL: http://development.localhost
+MAX_USERS: 100
+DEBUG_MODE: true
